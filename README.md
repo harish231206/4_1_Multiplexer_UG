@@ -77,7 +77,7 @@ module tb_mux4_gate;
 endmodule
 ```
 # Simulated Output Gate Level Modelling
-______ Here Paste the Simulated output ___________
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/19d845e1-c9cc-4729-937a-2acf0cf74f8f" />
 
 4:1 MUX Data flow Modelling
 ```
@@ -121,7 +121,8 @@ module tb_mux4_dataflow;
 endmodule
 ```
 # Simulated Output Dataflow Modelling
-_______ Here Paste the Simulated output ___________
+<img width="1845" height="982" alt="image" src="https://github.com/user-attachments/assets/e929955a-6222-4810-962d-cc9fc959fc5f" />
+
 
 4:1 MUX Behavioral Implementation
 ```
@@ -169,7 +170,7 @@ module tb_mux4_behavioral;
 endmodule
 ```
 # Simulated Output Behavioral Modelling
-_______ Here Paste the Simulated output ___________
+<img width="1846" height="986" alt="image" src="https://github.com/user-attachments/assets/e4a15f60-bc0a-41a4-857a-e3cef329be57" />
 
 #4:1 MUX Structural Implementation
 ```
@@ -214,11 +215,9 @@ module mux4_to_1_tb;
 endmodule
 ```
 # Simulated Output Structural Modelling
-_______ Here Paste the Simulated output ___________
+<img width="1046" height="557" alt="image" src="https://github.com/user-attachments/assets/307194a0-4764-429f-a5e9-f7a9ff427064" />
+
 
 # CONCLUSION
 In this experiment, a 4:1 Multiplexer was successfully designed and simulated using Verilog HDL across four different modeling styles: Gate-Level, Data Flow, Behavioral, and Structural.The simulation results verified the correct functionality of the MUX, with all implementations producing identical outputs for the given input conditions.
 
-
-
-endmodule
